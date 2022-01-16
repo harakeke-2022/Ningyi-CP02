@@ -1,0 +1,25 @@
+{
+  "name": "ningyi-cp02",
+  "version": "1.0.0",
+  "description": "A Ningyi repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harakeke-2022/ningyi-CP02.git"
+  },
+  "keywords": [
+    "ningyi"
+  ],
+  "author": "Ningyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harakeke-2022/ningyi-CP02/issues"
+  },
+  "homepage": "https://github.com/harakeke-2022/ningyi-CP02#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
